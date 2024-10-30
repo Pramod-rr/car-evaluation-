@@ -3,4 +3,4 @@ Car Evaluation Database was derived from a simple hierarchical decision model or
 
 
 For [Random forest classification](https://github.com/Pramod-rr/car-evaluation-/blob/main/car%20evaluation.ipynb) evaluation
-For [KNeighbors Classification](https://github.com/Pramod-rr/car-evaluation-/blob/main/car%20evaluation%20KNN.ipynb) evaluation
+ and for [KNeighbors Classification](https://github.com/Pramod-rr/car-evaluation-/blob/main/car%20evaluation%20KNN.ipynb) evaluation
